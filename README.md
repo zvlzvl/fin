@@ -4,13 +4,13 @@
 ![PHP](https://img.shields.io/badge/code-PHP-blue)
 ![Laravel](https://img.shields.io/badge/framework-Laravel-red)
 
+# Project name
+Asmeniniai finansai
+(Personal finance)
 
-# Asmeniniai finansai
-
-### 
-
+##
 Informacinio pobūdžio puslapis.
+(website project)
 
-## Authors
-
+### Author
 [Zivile](https://github.com/zvlzvl)
