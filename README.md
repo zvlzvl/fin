@@ -9,7 +9,7 @@
 
 ### 
 
-Nesudėtingas informacinio pobūdžio puslapis.
+Informacinio pobūdžio puslapis.
 
 ## Authors
 
