@@ -9,7 +9,7 @@ Asmeniniai finansai
 (Personal finance)
 
 ##
-Informacinio pobūdžio puslapis.
+Informacinio pobūdžio puslapis
 (website project)
 
 ### Author
