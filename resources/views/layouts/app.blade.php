@@ -75,12 +75,13 @@
 
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
-                        <a class="dropdown-item" href="{{ route('home') }}">
-                            Home
-                        </a>
-                        <a class="dropdown-item" href="{{ route('home') }}">
-                            Contact Us
-                        </a>
+                        <button type="button" class="btn btn-dark btn-circle btn-md">Back</button>
+                        <div class="round">                        
+                            <a class="dropdown-item buttons" href="{{ route('home') }}">H</a>
+                        </div>
+                        <div class="round">
+                        <a class="dropdown-item buttons" href="{{ route('contact.index') }}">CU</a>
+                        </div>
                     </ul>
                 </div>
             </div>
